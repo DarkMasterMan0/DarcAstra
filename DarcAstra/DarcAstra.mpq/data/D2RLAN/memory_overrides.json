@@ -1,4 +1,25 @@
 {
+  "MonsterStatsDisplay": false,
+  "Channel Color": "ÿc0",
+  "Player Name Color": "ÿc4",
+  "Message Color": "ÿc0",
+  "HPRolloverMods": false,
+  "HPRollover%": 99,
+  "HPRolloverDifficulty": -1,
+  "SunderedMonUMods": true,
+  "SunderValue": 95,
+  "MinionEquality": true,
+  "GambleCostControl": false,
+  "CombatLog": false,
+  "TransmogVisuals": true,
+  "ExtendedItemcodes": true,
+  "FloatingDamage": false,
+  "Options": {
+    "Base Codes": false,
+    "Base Names": true,
+    "Collected": false,
+    "Excluded": false
+  },
   "MemoryConfigs": [
     {
         "Name": "Enable TCP/IP Access",

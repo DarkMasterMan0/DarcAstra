@@ -1,7 +1,7 @@
 <img width="440" height="127" alt="Logo" src="https://github.com/user-attachments/assets/b056ef62-770b-4405-99fa-c99ab2d108bf" />
 
 # D2RLAN Installation
-Use Bonesy's D2RLAN mod manager to launch DarkAstra or other D2R mods, download it from here: https://www.d2rmodding.com/d2rlan After launching D2RLAN you can download DarcAstra using the `Download New Mod` button on the right side, select DarcAstra in the dropdown tab that appears and install. After installation select DarcAstra in the `Mod Choice` dropdown tab and click the `Play Mod` button.
+Use Bonesy's D2RLAN mod manager to launch DarcAstra or other D2R mods, download it from here: https://www.d2rmodding.com/d2rlan After launching D2RLAN you can download DarcAstra using the `Download New Mod` button on the right side, select DarcAstra in the dropdown tab that appears and install. After installation select DarcAstra in the `Mod Choice` dropdown tab and click the `Play Mod` button.
 
 **BACKUP YOUR SAVES OFTEN:** Any time your computer has a hard shutdown (crash, power outage, pulled plug, etc.) it will cause the active RAM to get corrupted which includes your currently active character and the respective shared stash (softcore/hardcore). You'll find your save files in `C:\Users\username\Saved Games\Diablo II Resurrected\DarcAstra`, you can backup the whole folder or just the `.d2s` (character) and `.d2i` (shared stash) files. D2RLAN has the option to automate backups, you'll find it under the `Options > QoL Options > Auto-Backup Characters` section.
 

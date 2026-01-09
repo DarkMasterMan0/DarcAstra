@@ -6,11 +6,11 @@
 --My Mod Details--
 Mod Download: https://github.com/DarkMasterMan0/DarcAstra/archive/refs/heads/main.zip
 Mod Config Download: https://github.com/DarkMasterMan0/DarcAstra/raw/refs/heads/main/DarcAstra/DarcAstra.mpq/modinfo.json
-Mod Version: 1.00
-News 1 Title: "1.00 released January 7th, 2026"
+Mod Version: 1.00b
+News 1 Title: "1.00b released January 9th, 2026"
 News 1 Message: "Initial release of DarcAstra, sadly rushed due to time constraints (my apologies). I shall add the remaining changes in a future update. Thank you for playing my mod, feel free to make any changes that you desire!"
-News 2 Title: "1.00 Changelog"
-News 2 Message: "See the Patch Notes.md file in the topmost DarcAstra folder for the changelog."
+News 2 Title: "1.00b Changelog"
+News 2 Message: "1.00b: Fixed a UI bug that prevented players from assigning stat points in D2R graphics, added some default configs for chat color, sunder value, etc. See the Patch Notes.md file in the topmost DarcAstra folder for the 1.00 changelog."
 
 --General Options--
 Map Layouts: Disabled

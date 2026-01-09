@@ -1,6 +1,16 @@
 All patch notes are left as they originally were at time of release (meaning they become outdated as more patches release, see the Current Changelog for all fully current changes to DarcAstra).
 
-DarcAstra is based off DMMod 1.09b, so DarcAstra patch notes can be considered a continuation of the (discontinued) DMMod patch notes.
+DarcAstra is based off DMMod 1.09b, so DarcAstra patch notes can be considered a continuation of the (discontinued) DMMod patch notes here:
+https://github.com/DarkMasterMan0/DMMod/blob/main/Patch%20Notes.md
+
+**1.00b Changelog** (1-9-26)
+  * Hotfix patch, other minor changes
+  * D2RLAN Features
+    * Added some default configurations for chat colors and set Sunder value to 95 (meaning Sunder charms will reduce immune monsters to 95% resistance, same as vanilla D2R)
+  * General
+    * Bug Fix
+      * UI
+        * Fixed an issue that prevented players from assigning stat points in D2R graphics
 
 **1.00 Changelog (Initial Release)** (1-7-26)
   * D2RLAN Features (thanks Bonesy!)
