@@ -3,6 +3,17 @@ All patch notes are left as they originally were at time of release (meaning the
 DarcAstra is based off DMMod 1.09b, so DarcAstra patch notes can be considered a continuation of the (discontinued) DMMod patch notes here:
 https://github.com/DarkMasterMan0/DMMod/blob/main/Patch%20Notes.md
 
+**1.01 Changelog** (3-17-26)
+  * D2RLAN Features
+    * Ethereal items now have (base durability * 2) + 1 instead of (base durability / 2) + 1
+  * General
+    * Bug Fixes
+      * Items
+        * Tal Rasha's Horadric Crest 10% Faster Cast Rate is now properly a 3 item set bonus
+        * An Evil Force throwing potions no longer (very rarely) spawn from weapon racks (WIP item, might be added in a future patch)
+      * Monsters
+        * Act 5 Carver Shaman Glacial Spikes damage fixed/decreased (was unintententionally benefitting from PSyns)
+
 **1.00b Changelog** (1-9-26)
   * Hotfix patch, other minor changes
   * D2RLAN Features
