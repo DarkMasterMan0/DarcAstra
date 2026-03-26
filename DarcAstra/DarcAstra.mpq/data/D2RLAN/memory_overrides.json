@@ -27,7 +27,7 @@
         "Base Names": true,
         "Collected": false,
         "Excluded": false,
-		"Duplicates": true
+		"Duplicates": false
     },
     "AutoBackups": {
     "Interval": 10,
