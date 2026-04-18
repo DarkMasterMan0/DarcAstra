@@ -3,6 +3,15 @@ All patch notes are left as they originally were at time of release (meaning the
 DarcAstra is based off DMMod 1.09b, so DarcAstra patch notes can be considered a continuation of the (discontinued) DMMod patch notes here:
 https://github.com/DarkMasterMan0/DMMod/blob/main/Patch%20Notes.md
 
+**1.01b Changelog** (4-17-26)
+  * General
+    * Bug Fixes
+      * Monsters
+        * Monsters no longer drop more than 6 items (fixed an issue caused by a new D2RLAN feature that I didn't take into account)
+  * Monsters
+    * Duriel
+      * His town portal scroll drop is now limited to 1 max, instead of 0 to 5. He can still select drop more than one if his other drops select TP scrolls, but the odds are highly unlikely and this will improve his drop rates somewhat.
+
 **1.01 Changelog** (3-17-26)
   * D2RLAN Features
     * Ethereal items now have (base durability * 2) + 1 instead of (base durability / 2) + 1

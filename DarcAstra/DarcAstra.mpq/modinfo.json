@@ -6,11 +6,11 @@
 --My Mod Details--
 Mod Download: https://github.com/DarkMasterMan0/DarcAstra/archive/refs/heads/main.zip
 Mod Config Download: https://github.com/DarkMasterMan0/DarcAstra/raw/refs/heads/main/DarcAstra/DarcAstra.mpq/modinfo.json
-Mod Version: 1.01
-News 1 Title: "1.01 released March 17th, 2026"
+Mod Version: 1.01b
+News 1 Title: "1.01b released April 17th, 2026"
 News 1 Message: "Thanks for playing my mod, enjoy!"
-News 2 Title: "1.01 Changelog"
-News 2 Message: "Minor bug fixes, ethereal items now have double durability + 1 instead of half durability + 1."
+News 2 Title: "1.01b Changelog"
+News 2 Message: "Bug fix, monsters no longer drop more than 6 items. Duriel's town portal scroll drop is now limited to 1 max, instead of 0 to 5. He can still select drop more than one if his other drops select TP scrolls, but the odds are highly unlikely and this will improve his drop rates somewhat."
 
 --General Options--
 Map Layouts: Disabled

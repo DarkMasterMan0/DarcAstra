@@ -482,7 +482,7 @@
         "Address": "32CEB4",
         "Length": 10,
         "Type": "Hex",
-        "Values": "E90FA7E7009090909090",
+        "Values": "33C089442448440FB7CD",
         "OriginalValues": "33C089442448440FB7CD",
         "ModdedValues": "E90FA7E70090909090900"
     },
@@ -493,7 +493,7 @@
         "Address": "11A75C8",
         "Length": 19,
         "Type": "Hex",
-        "Values": "33C0C744244832000000440FB7CDE9E35818FF",
+        "Values": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
         "OriginalValues": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
         "ModdedValues": "33C0C744244832000000440FB7CDE9E35818FF"
     },
