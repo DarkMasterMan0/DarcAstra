@@ -3,6 +3,16 @@ All patch notes are left as they originally were at time of release (meaning the
 DarcAstra is based off DMMod 1.09b, so DarcAstra patch notes can be considered a continuation of the (discontinued) DMMod patch notes here:
 https://github.com/DarkMasterMan0/DMMod/blob/main/Patch%20Notes.md
 
+**1.01c Changelog** (5-4-26)
+  * D2RLAN Features
+    * Stash now has a search bar (the black bar at the top right of the stash) that highlights items whose name matches the search terms
+  * General
+    * UI
+      * Added the game creation options menu between the "Play" and "TCP/IP" buttons that allows you to change item drop spacing
+    * Bug Fixes
+      * UI
+        * Party list/menu (only applicable to TCP/IP games) now properly has the left side paneling
+
 **1.01b Changelog** (4-17-26)
   * General
     * Bug Fixes

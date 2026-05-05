@@ -586,19 +586,15 @@
         "ModdedValues": "9090909090"
     },
     {
-        "Name": "Make Energy Shield not disable on 0 mana",
-        "Description": "This will make energy shield not disable itself anymore when the player reaches 0 mana.",
-        "Category": "Alteration",
-        "Addresses": [
-            "38232f",
-            "382240",
-            "382252"
-        ],
-        "Length": 5,
-        "Type": "Hex",
-        "Values": "E81CC4EAFF",
-        "OriginalValues": "E81CC4EAFF",
-        "ModdedValues": "9090909090"
+	    "Name": "Make Energy Shield not disable on 0 mana",
+	    "Description": "This will make energy shield not disable itself anymore when the player reaches 0 mana.",
+	    "Category": "Alteration",
+	    "Address": "38221e",
+	    "Length": 8,
+	    "Type": "Hex",
+	    "Values": "85FF0F8F0E010000",
+	    "OriginalValues": "85FF0F8F0E010000",
+	    "ModdedValues": "9090E90F01000090"
     },
     {
         "Name": "Holy aura disable soft hit",
@@ -665,6 +661,65 @@
         "Values": "0F859D000000",
         "OriginalValues": "0F859D000000",
         "ModdedValues": "909090909090"
+    },
+    {
+        "Name": "-Enemy Res% affects immunes",
+        "Description": "This allows the -Enemy Resistance% stat on items/skills to affect immune monsters",
+        "Category": "Alteration",
+        "Address": "325068",
+        "Length": 1,
+        "Type": "Hex",
+        "Values": "7C",
+        "OriginalValues": "7C",
+        "ModdedValues": "EB"
+    },
+    {
+        "Name": "Remove 1/5 Res% Penalty",
+        "Description": "This removes the 1/5 Resistance penalty for auras and curses",
+        "Category": "Alteration",
+        "Address": "36645B",
+        "Length": 1,
+        "Type": "Hex",
+        "Values": "7C",
+        "OriginalValues": "7C",
+        "ModdedValues": "EB"
+    },
+    {
+        "Name": "ITD applies to Champs/Uniques",
+        "Description": "This allows the Ignore Target Defense stat to apply to Champions and Unique monsters",
+        "Category": "Alteration",
+        "Address": "329575",
+        "Length": 2,
+        "Type": "Hex",
+        "Values": "7539",
+        "OriginalValues": "7539",
+        "ModdedValues": "9090"
+    },
+    {
+        "Name": "ITD applies to Act Bosses",
+        "Description": "This allows the Ignore Target Defense stat to apply to Act Bosses (Prime-Evils)",
+        "Category": "Alteration",
+        "Address": "32959E",
+        "Length": 2,
+        "Type": "Hex",
+        "Values": "7510",
+        "OriginalValues": "7510",
+        "ModdedValues": "9090"
+    },
+    {
+        "Name": "Make Energy Shield not disable on 0 mana",
+        "Description": "This will make energy shield not disable itself anymore when the player reaches 0 mana.",
+        "Category": "Alteration",
+        "Addresses": [
+            "38232f",
+            "382240",
+            "382252"
+        ],
+        "Length": 5,
+        "Type": "Hex",
+        "Values": "E81CC4EAFF",
+        "OriginalValues": "E81CC4EAFF",
+        "ModdedValues": "9090909090"
     }
   ]
 }

@@ -254,6 +254,21 @@
                 "rect": { "x": -17, "y": 1827 },
                 "filename": "FrontEnd/HD/Final/FrontEnd_Divider"
             },
+			"children": [
+                {
+                    "type": "ButtonWidget", "name": "OnlinePlaySettingsButton",
+                    "fields": {
+                        "anchor": { "x": 0.6, "y": 0.26 },
+                        "rect": { "x": -47, "y": 8 },
+                        "filename": "FrontEnd\\HD\\Final\\FrontEnd_Cog",
+                        "tooltipString": "@GameCreationHD",
+                        "onClickMessage": "PanelManager:OpenPanel:OnlineGameSettingsPanel",
+                        "hoveredFrame": 2,
+                        "disabledFrame": 3,
+                        "disabledTint": { "a": 1.0 },
+                    }
+                },
+            ] 
         },
         {
             "type": "ButtonWidget", "name": "SecondaryContextButton2",
